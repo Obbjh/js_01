@@ -1,3 +1,3 @@
 
-const pricePerDroid = 800;
+const pricePerDroid = f;
 console.log(pricePerDroid);
